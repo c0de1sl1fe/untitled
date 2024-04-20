@@ -46,7 +46,7 @@
                 <column property="name"/>
                 <column property="dueDate"/>
                 <column property="priority"/>
-                <column property="desctiption"/>
+                <column property="description"/>
                 <column property="estimation"/>
             </columns>
         </dataGrid>
