@@ -20,6 +20,16 @@ public class ProjectStats {
 
     private Integer actualEfforts;
 
+    private Integer difference;
+
+    public Integer getDifference() {
+        return difference;
+    }
+
+    public void setDifference(Integer difference) {
+        this.difference = difference;
+    }
+
     public Integer getActualEfforts() {
         return actualEfforts;
     }

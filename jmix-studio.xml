@@ -8,6 +8,24 @@
             <map>
               <entry key="main">
                 <value>
+                  <DataStoreSettingsV2>
+                    <option name="generateDdlType" value="CREATE_AND_UPDATE" />
+                    <option name="supportedTypes">
+                      <option value="mysql" />
+                    </option>
+                  </DataStoreSettingsV2>
+                </value>
+              </entry>
+            </map>
+          </option>
+        </ModuleSettings>
+      </entry>
+      <entry key="git.untitled.main">
+        <ModuleSettings>
+          <option name="dataStoreOptionsV2">
+            <map>
+              <entry key="main">
+                <value>
                   <DataStoreSettingsV2 />
                 </value>
               </entry>
@@ -45,6 +63,15 @@
           <option name="host" value=".jmix/hsqldb" />
           <option name="url" value="jdbc:hsqldb:file:.jmix/hsqldb/untitled" />
           <option name="user" value="sa" />
+        </SavedDbProperties>
+        <SavedDbProperties>
+          <option name="databaseName" value="project_management" />
+          <option name="dbType" value="postgres" />
+          <option name="dbmsVersion" />
+          <option name="host" value="localhost" />
+          <option name="pass" value="megamozga" />
+          <option name="url" value="jdbc:postgresql://localhost/project_management" />
+          <option name="user" value="postgres" />
         </SavedDbProperties>
       </list>
     </option>
